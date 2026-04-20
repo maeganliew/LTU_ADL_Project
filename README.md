@@ -1,0 +1,1 @@
+This repository contains the work of Group 5, focusing on vehicle detection in adverse winter conditions.
