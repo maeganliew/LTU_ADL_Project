@@ -1,0 +1,19 @@
+.ipynb_checkpoints/
+raw_data/
+outputs/
+runs/
+dataset/images/
+dataset/labels/
+*.pt
+*.zip
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+
+# keep the dataset config
+!dataset/
+!dataset/nvd.yaml
